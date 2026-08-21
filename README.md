@@ -6,10 +6,6 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ HERO BANNER ░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-
-  <!-- Replace this URL with the raw GitHub URL after pushing assets/banner.jpg -->
-  <img src="./assets/banner.jpg" alt="Detox10 — Cybersecurity Enthusiast Banner with shield icon and circuit traces on dark grid background" width="100%" />
-
   <br/>
   <br/>
 
